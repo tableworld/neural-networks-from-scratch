@@ -24,3 +24,8 @@ Simple two-layer neural network built from scratch in Python. Solves the XOR pro
 - ReLU activation
 - Multi-output support
 - Larger datasets
+
+## Training Loss Curve
+
+![Loss Curve](loss_curve.png)
+
